@@ -1,6 +1,6 @@
 ### Hi, I'm [Anil][website]
 
-[![Linkedin](https://img.shields.io/linkedin?label=linkedin.com/in/anilsdemir&style=for-the-badge&url=https%3A%2F%2Flinkedin.com/in/anilsdemir)](https://linkedin/in/anilsdemir)
+[![Linkedin](https://img.shields.io/linkedin?label=linkedin.com/in/anilsdemir&style=for-the-badge&url=https%3A%2F%2Flinkedin.com/in/anilsdemir)](https://linkedin.com/in/anilsdemir)
 [![Website](https://img.shields.io/website?label=anilsdemir.com&style=for-the-badge&url=https%3A%2F%2Fanilsdemir.com)](https://anilsdemir.com)
 
 
