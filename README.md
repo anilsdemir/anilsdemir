@@ -50,7 +50,7 @@
   <summary>:zap: Recent Github Activity</summary>
   
 <!--START_SECTION:activity-->
-1. Added README [#6](https://github.com/anilsdemir/anilsdemir)
+1. Added [README](https://github.com/anilsdemir/anilsdemir)
 
 <!--END_SECTION:activity-->
 
