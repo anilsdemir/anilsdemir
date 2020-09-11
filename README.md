@@ -47,7 +47,7 @@
 
 
 <details>
-  <summary>:zap: Recent Github Activity</summary>
+  <summary> Recent Github Activity</summary>
   
 <!--START_SECTION:activity-->
 1. Added [README](https://github.com/anilsdemir/anilsdemir)
@@ -57,7 +57,7 @@
 </details>
 
 <details>
-  <summary>:zap: Github Stats</summary>
+  <summary> Github Stats</summary>
 
   <img align="left" alt="anilsdemir's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=anilsdemir&show_icons=true&hide_border=true" />
 
