@@ -4,7 +4,7 @@
 [![Website](https://img.shields.io/website?label=anilsdemir.com&style=for-the-badge&url=https%3A%2F%2Fanilsdemir.com)](https://anilsdemir.com)
 
 
-## I'm an Developer and Electrical Engineer
+## I'm a Developer and Electrical Engineer
 
 - I’m currently working at Migros R&D
 
