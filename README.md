@@ -2,12 +2,6 @@
 
 [![Website](https://img.shields.io/website?label=linkedin.com/in/anilsdemir&style=for-the-badge&url=https%3A%2F%2Flinkedin.com/in/anilsdemir)](https://linkedin.com/in/anilsdemir)
 
-
-## I'm a Developer and Electrical Engineer
-
-- I’m currently working at Migros R&D
-
-
 ### Connect with me:
 
 [<img align="left" alt="anilsdemir.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
