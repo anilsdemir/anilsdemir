@@ -37,14 +37,3 @@
 
 <br />
 <br />
-
-
-[![Anil Demir's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=anilsdemir)](https://github.com/anuraghazra/github-readme-stats)
-
-<a href=""> <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=anilsdemir&theme=react&line_height=40&hide=css"/> </a>
-
-[website]: https://anilsdemir.com
-[twitter]: https://twitter.com/anilsdemir
-[youtube]: https://www.youtube.com/channel/UCW13OySpYFujYvTZVD6hIpQ
-[instagram]: https://instagram.com/anilsdemir
-[linkedin]: https://linkedin.com/in/anilsdemir
