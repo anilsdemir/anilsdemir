@@ -1,4 +1,4 @@
-### Hi, I'm [Anil][website]
+### Hi, I'm Anil,
 
 ### Languages and Tools:
 
