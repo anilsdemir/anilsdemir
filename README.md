@@ -39,7 +39,7 @@
 <br />
 
 
-<img align="left" alt="anilsdemir's Github Stats" src="https://github-readme-stats.vercel.app/api?username=anilsdemir&show_icons=true" />
+[![Anil Demir's GitHub stats](https://github-readme-stats.vercel.app/api?username=anilsdemir)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
