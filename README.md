@@ -39,22 +39,9 @@
 <br />
 
 
-<details>
-  <summary> Recent Github Activity</summary>
-  
-<!--START_SECTION:activity-->
-1. Added [README](https://github.com/anilsdemir/anilsdemir)
+<img align="left" alt="anilsdemir's Github Stats" src="https://github-readme-stats.vercel.app/api?username=anilsdemir&show_icons=true" />
 
-<!--END_SECTION:activity-->
 
-</details>
-
-<details>
-  <summary> Github Stats</summary>
-
-  <img align="left" alt="anilsdemir's Github Stats" src="https://github-readme-stats.vercel.app/api?username=anilsdemir&show_icons=true" />
-
-</details>
 
 [website]: https://anilsdemir.com
 [twitter]: https://twitter.com/anilsdemir
